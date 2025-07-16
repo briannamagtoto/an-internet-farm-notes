@@ -1,3 +1,31 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* ===== BASE STYLES ===== */
+body {
+    background-color: rgb(255, 251, 246) !important;
+}
+
+/* Force light mode only */
+:root {
+    --light: rgb(255, 251, 246) !important;
+    --lightgray: #e5e5e5 !important;
+    --gray: #482401 !important;
+    --darkgray: #482401 !important;
+    --dark: #482401 !important;
+    --secondary: #2cca36 !important;
+    --tertiary: #84a59d !important;
+    --highlight: rgba(143, 159, 169, 0.15) !important;
+    --textHighlight: #fff23688 !important;
+}
+
+/* Force text color everywhere */
+body, p, span, div, li, td, th, h1, h2, h3, h4, h5, h6 {
+    color: #482401 !important;
+}
+
+/* ===== LINKS ===== */
+a, a:visited, a:hover, a:active {
+    color: #2cca36;
+}
