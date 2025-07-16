@@ -1,11 +1,14 @@
 ---
-title: home of brianna magtoto
+title: home
 draft: false
 tags:
 - home
 ---
-This is where my notes live. I've realized that I need external accountability, so why not learn in public? If I know you and you have a digital garden, 
-please tell me! I will link you in my friends page so we can grow our gardens together. 🐌🌱🌞 
+This is where Brianna Magtoto's public-facing notes live. She has  an Obsidian folder + analog journal for more private facing thoughts/experiences, but this is a space that she will update her core beliefs, learnings, etc. 
 
-If you're interested, here is a [[changelog]], where I'll try to consistently update what I learn about + notes I create. It'll be a nice exercise for
-future me to look at too.  
+She realized that she needs external accountability, so she questioned "why not learn in public?" If she knows you and you have a digital garden, please tell her! She will link you in her friends page so you can both grow your gardens together. 🐌🌱🌞 
+
+Check [[notes-runbook]] for a quick guide on how to peruse Brianna's notes. She likes to make things complicated for no reason, so please don't
+blame me. If you have any thoughts you'd like Brianna to hear, leave her some anonymous constructive feedback [here](https://www.admonymous.co/brianna-magtoto). She appreciates anything and everything.
+
+To a life of hyperlinks and rabbitholes!
