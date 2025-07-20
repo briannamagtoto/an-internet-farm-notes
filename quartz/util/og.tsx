@@ -205,115 +205,156 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
         flexDirection: "column",
         height: "100%",
         width: "100%",
-        backgroundColor: cfg.theme.colors[colorScheme].light,
+        backgroundImage: `url("https://${cfg.baseUrl}/static/og-image.png")`,
+        backgroundSize: "cover",
+        backgroundPosition: "center",
         padding: "2.5rem",
         fontFamily: bodyFont,
       }}
     >
-      {/* Header Section */}
+      {/* Semi-transparent overlay for better text readability */}
       <div
         style={{
-          display: "flex",
-          alignItems: "center",
-          gap: "1rem",
-          marginBottom: "0.5rem",
+          position: "absolute",
+          top: 0,
+          left: 0,
+          right: 0,
+          bottom: 0,
+          backgroundColor: "rgba(0, 0, 0, 0.4)",
         }}
-      >
-        {iconBase64 && (
-          <img
-            src={iconBase64}
-            width={56}
-            height={56}
-            style={{
-              borderRadius: "50%",
-            }}
-          />
-        )}
-        <div
-          style={{
-            display: "flex",
-            fontSize: 32,
-            color: cfg.theme.colors[colorScheme].gray,
-            fontFamily: bodyFont,
-          }}
-        >
-          {cfg.baseUrl}
-        </div>
-      </div>
-
-      {/* Title Section */}
+      />
+      
+      {/* Content wrapper with relative positioning */}
       <div
         style={{
+          position: "relative",
           display: "flex",
-          marginTop: "1rem",
-          marginBottom: "1.5rem",
+          flexDirection: "column",
+          height: "100%",
+          width: "100%",
         }}
       >
-        <h1
-          style={{
-            margin: 0,
-            fontSize: useSmallerFont ? 64 : 72,
-            fontFamily: headerFont,
-            fontWeight: 700,
-            color: cfg.theme.colors[colorScheme].dark,
-            lineHeight: 1.2,
-            display: "-webkit-box",
-            WebkitBoxOrient: "vertical",
-            WebkitLineClamp: 2,
-            overflow: "hidden",
-            textOverflow: "ellipsis",
-          }}
-        >
-          {title}
-        </h1>
-      </div>
-
-      {/* Description Section */}
-      <div
-        style={{
-          display: "flex",
-          flex: 1,
-          fontSize: 36,
-          color: cfg.theme.colors[colorScheme].darkgray,
-          lineHeight: 1.4,
-        }}
-      >
-        <p
-          style={{
-            margin: 0,
-            display: "-webkit-box",
-            WebkitBoxOrient: "vertical",
-            WebkitLineClamp: 5,
-            overflow: "hidden",
-            textOverflow: "ellipsis",
-          }}
-        >
-          {description}
-        </p>
-      </div>
-
-      {/* Footer with Metadata */}
-      <div
-        style={{
-          display: "flex",
-          alignItems: "center",
-          justifyContent: "space-between",
-          marginTop: "2rem",
-          paddingTop: "2rem",
-          borderTop: `1px solid ${cfg.theme.colors[colorScheme].lightgray}`,
-        }}
-      >
-        {/* Left side - Date and Reading Time */}
+        {/* Header Section */}
         <div
           style={{
             display: "flex",
             alignItems: "center",
-            gap: "2rem",
-            color: cfg.theme.colors[colorScheme].gray,
-            fontSize: 28,
+            gap: "1rem",
+            marginBottom: "0.5rem",
           }}
         >
-          {date && (
+          {iconBase64 && (
+            <img
+              src={iconBase64}
+              width={56}
+              height={56}
+              style={{
+                borderRadius: "50%",
+              }}
+            />
+          )}
+          <div
+            style={{
+              display: "flex",
+              fontSize: 32,
+              color: "white",
+              fontFamily: bodyFont,
+            }}
+          >
+            {cfg.baseUrl}
+          </div>
+        </div>
+
+        {/* Title Section */}
+        <div
+          style={{
+            display: "flex",
+            marginTop: "1rem",
+            marginBottom: "1.5rem",
+          }}
+        >
+          <h1
+            style={{
+              margin: 0,
+              fontSize: useSmallerFont ? 64 : 72,
+              fontFamily: headerFont,
+              fontWeight: 700,
+              color: "white",
+              lineHeight: 1.2,
+              display: "-webkit-box",
+              WebkitBoxOrient: "vertical",
+              WebkitLineClamp: 2,
+              overflow: "hidden",
+              textOverflow: "ellipsis",
+            }}
+          >
+            {title}
+          </h1>
+        </div>
+
+        {/* Description Section */}
+        <div
+          style={{
+            display: "flex",
+            flex: 1,
+            fontSize: 36,
+            color: "rgba(255, 255, 255, 0.9)",
+            lineHeight: 1.4,
+          }}
+        >
+          <p
+            style={{
+              margin: 0,
+              display: "-webkit-box",
+              WebkitBoxOrient: "vertical",
+              WebkitLineClamp: 5,
+              overflow: "hidden",
+              textOverflow: "ellipsis",
+            }}
+          >
+            {description}
+          </p>
+        </div>
+
+        {/* Footer with Metadata */}
+        <div
+          style={{
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "space-between",
+            marginTop: "2rem",
+            paddingTop: "2rem",
+            borderTop: "1px solid rgba(255, 255, 255, 0.3)",
+          }}
+        >
+          {/* Left side - Date and Reading Time */}
+          <div
+            style={{
+              display: "flex",
+              alignItems: "center",
+              gap: "2rem",
+              color: "rgba(255, 255, 255, 0.8)",
+              fontSize: 28,
+            }}
+          >
+            {date && (
+              <div style={{ display: "flex", alignItems: "center" }}>
+                <svg
+                  style={{ marginRight: "0.5rem" }}
+                  width="28"
+                  height="28"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                >
+                  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                  <line x1="16" y1="2" x2="16" y2="6"></line>
+                  <line x1="8" y1="2" x2="8" y2="6"></line>
+                  <line x1="3" y1="10" x2="21" y2="10"></line>
+                </svg>
+                {date}
+              </div>
+            )}
             <div style={{ display: "flex", alignItems: "center" }}>
               <svg
                 style={{ marginRight: "0.5rem" }}
@@ -323,54 +364,38 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
                 fill="none"
                 stroke="currentColor"
               >
-                <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
-                <line x1="16" y1="2" x2="16" y2="6"></line>
-                <line x1="8" y1="2" x2="8" y2="6"></line>
-                <line x1="3" y1="10" x2="21" y2="10"></line>
+                <circle cx="12" cy="12" r="10"></circle>
+                <polyline points="12 6 12 12 16 14"></polyline>
               </svg>
-              {date}
+              {readingTimeText}
             </div>
-          )}
-          <div style={{ display: "flex", alignItems: "center" }}>
-            <svg
-              style={{ marginRight: "0.5rem" }}
-              width="28"
-              height="28"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-            >
-              <circle cx="12" cy="12" r="10"></circle>
-              <polyline points="12 6 12 12 16 14"></polyline>
-            </svg>
-            {readingTimeText}
           </div>
-        </div>
 
-        {/* Right side - Tags */}
-        <div
-          style={{
-            display: "flex",
-            gap: "0.5rem",
-            flexWrap: "wrap",
-            justifyContent: "flex-end",
-            maxWidth: "60%",
-          }}
-        >
-          {tags.slice(0, 3).map((tag: string) => (
-            <div
-              style={{
-                display: "flex",
-                padding: "0.5rem 1rem",
-                backgroundColor: cfg.theme.colors[colorScheme].highlight,
-                color: cfg.theme.colors[colorScheme].secondary,
-                borderRadius: "10px",
-                fontSize: 24,
-              }}
-            >
-              #{tag}
-            </div>
-          ))}
+          {/* Right side - Tags */}
+          <div
+            style={{
+              display: "flex",
+              gap: "0.5rem",
+              flexWrap: "wrap",
+              justifyContent: "flex-end",
+              maxWidth: "60%",
+            }}
+          >
+            {tags.slice(0, 3).map((tag: string) => (
+              <div
+                style={{
+                  display: "flex",
+                  padding: "0.5rem 1rem",
+                  backgroundColor: "rgba(255, 255, 255, 0.2)",
+                  color: "white",
+                  borderRadius: "10px",
+                  fontSize: 24,
+                }}
+              >
+                #{tag}
+              </div>
+            ))}
+          </div>
         </div>
       </div>
     </div>
