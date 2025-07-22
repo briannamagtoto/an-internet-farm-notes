@@ -6,7 +6,7 @@ tags:
 - home
 ---
 ## 07/2025
-**July 20 2025**: create [[to-be-consumed]]
+**July 20 2025**: create [[to-be-consumed]], [[logs]]
 
 **July 19 2025**: update quartz photo, create [[projects]], [[brianna-magtoto-moc]]
 
