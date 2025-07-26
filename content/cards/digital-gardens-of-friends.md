@@ -6,6 +6,8 @@ tags:
 ---
 This is a directory of the digital gardens (or websites) that my friends cultivate:
 
+- [Tina Zeng](https://tinazeng.me/)
+
 - [Jasmine Li](https://jasminexli.com/)
 
 - [Krish Ramkumar](https://www.krishramkumar.com/)
