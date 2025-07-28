@@ -11,11 +11,19 @@ header {
   align-items: center;
   margin: 2rem 0;
   gap: 1.5rem;
+  width: 100%;
+  justify-content: center;
 }
 
 header h1 {
   margin: 0;
   flex: auto;
+}
+
+header h2 {
+  margin: 0;
+  flex: auto;
+  width: 100%;
 }
 `
 
