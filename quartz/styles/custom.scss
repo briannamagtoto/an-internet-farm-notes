@@ -31,6 +31,26 @@ p {
     word-break: normal !important;
 }
 
+/* ===== DATES ===== */
+.content-meta, .content-meta time, .content-meta .reading-time {
+    white-space: nowrap !important;
+    word-break: keep-all !important;
+}
+
+/* Fix folder/tag page card dates */
+.section .meta {
+    white-space: nowrap !important;
+    word-break: keep-all !important;
+    min-width: max-content !important;
+}
+
+/* Adjust grid layout for mobile to accommodate longer dates */
+@media (max-width: 768px) {
+    .section {
+        grid-template-columns: max-content 1fr !important;
+    }
+}
+
 /* ===== LINKS ===== */
 a, a:visited, a:hover, a:active {
     color: #2cca36;
