@@ -13,4 +13,4 @@ clothes, etc! Finding my style has been instrumental in increasing my confidence
 intuiton for my personal style. I enjoy helping other people find clothes they like as well! Going to the Goodwill bins gives me an adrenaline rush everytime. 
 - [Cultivation are.na channel](https://www.are.na/brianna-magtoto/cultivation-archive) - A growing archive of projects I have made. Proud that I've followed through. 
 - [Writing An Interpreter in Go](https://github.com/briannamagtoto/writing-an-interpreter-in-go) - reading this book and documenting my progress on a GitHub repo
-- All of these notes are also an ongoing log of things I've learned, how recursive is that...! 😲
+- aninternet.farm/notes is also an ongoing log of things I've learned 😲
