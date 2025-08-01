@@ -6,7 +6,7 @@ tags:
 - home
 ---
 ## 07/2025
-**July 27 2025**:
+**July 27 2025**: update [[projects]]
 
 **July 25 2025**: update [[digital-gardens-of-friends]] and [[logs]]
 

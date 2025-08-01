@@ -15,6 +15,8 @@ ongoing:
 
 - attempting to write an article...
 
+- making a short film !?
+
 ideas: 
 - interactive women's desktop internet art piece inspired by this [are.na page](https://www.are.na/claire-l-evans/lovelace-women-s-desktops)
 - something that relates to UBER specific times  
