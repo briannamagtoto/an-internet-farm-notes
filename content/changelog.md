@@ -5,6 +5,9 @@ draft: false
 tags: 
 - home
 ---
+## 08/2025
+**August 3, 2025**: create [[articles]]
+
 ## 07/2025
 **July 27 2025**: update [[projects]]
 
