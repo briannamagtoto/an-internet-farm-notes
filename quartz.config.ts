@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "aninternet.farm",
+    baseUrl: "notes.aninternet.farm",
     ignorePatterns: [
       "private",
       "templates",
