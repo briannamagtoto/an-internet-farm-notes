@@ -1,5 +1,6 @@
 ---
 title: home
+publish: true
 draft: false
 tags:
 - home
