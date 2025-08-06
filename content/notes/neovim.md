@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-08-05T15:59:25.662-07:00","modified":"2025-08-06T13:28:20.729-07:00","cssclasses":""}
+{"publish":true,"created":"2025-08-05T15:59:25.662-07:00","modified":"2025-08-06T14:14:08.849-07:00","cssclasses":""}
 ---
 
-My friend Krish recently inspired me to explore ways to optimize productivity. I, like him, went into another rabbithole of customization. However, I want to prioritize sustainability and actually using my tools so from now on I'd like to apply a [just-in-time-learning](2-just-in-time-learning.md) principle
+My friend Krish recently inspired me to explore ways to optimize productivity. I, like him, went into another rabbithole of customization. However, I want to prioritize sustainability and actually using my tools so from now on I'd like to apply a [just-in-time-learning](2-just-in-time-learning.md) principle. But in this case, I guess I'd have to rename it to just in time implementation. As in, I will my workflow iterate based on if I don't or do need something. 
 
 Neovim is a text editor. It's different from an [integrated-development-environment](integrated-development-environment.md) like [VSCode](vscode.md) because it is a modal editor - where there are two primary modes: 1. insert mode (where you can type text into the editor) and 2. normal mode (central hub for navigation, manipulation, command execution, etc). [Vim Clutch](https://github.com/alevchuk/vim-clutch) is an hardware project that shows this in action clearly - it's a pedal that toggles "insert" mode when pressed down. 
 

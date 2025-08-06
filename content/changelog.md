@@ -1,10 +1,12 @@
 ---
-{"publish":true,"title":"changelog","created":"2025-08-06T00:04:51.720-07:00","modified":"2025-08-06T13:30:05.025-07:00","tags":["home"],"cssclasses":""}
+{"publish":true,"title":"changelog","created":"2025-08-06T00:04:51.720-07:00","modified":"2025-08-06T16:06:06.822-07:00","tags":["home"],"cssclasses":""}
 ---
 
 ## 08/2025
 **August 3, 2025**: create [[articles]]
+
 **August 5, 2025:** integrated personal obsidian notes w/ these to streamline process
+
 **August 6, 2025**: create [[notes/neovim]], [just in time learning](2-just-in-time-learning.md)
 
 ## 07/2025
