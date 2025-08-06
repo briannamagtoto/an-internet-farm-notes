@@ -1,6 +1,7 @@
 
 ---
 title: changelog
+publish: true
 draft: false
 tags: 
 - home

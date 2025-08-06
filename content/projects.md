@@ -1,5 +1,6 @@
 ---
 title: projects
+publish: true
 draft: false
 tags: 
 - home

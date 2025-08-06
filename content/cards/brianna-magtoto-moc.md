@@ -1,5 +1,6 @@
 ---
 title: brianna magtoto moc
+publish: true
 draft: false
 tags: 
 - moc/briannamagtoto

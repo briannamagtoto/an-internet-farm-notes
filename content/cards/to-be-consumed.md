@@ -1,5 +1,6 @@
 ---
 title: to be consumed
+publish: true
 draft: false
 tags: 
 - moc/briannamagtoto

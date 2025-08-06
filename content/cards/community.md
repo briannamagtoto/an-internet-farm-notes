@@ -1,5 +1,6 @@
 ---
 title: community
+publish: true
 draft: false
 tags: 
 - 

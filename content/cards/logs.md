@@ -1,5 +1,6 @@
 ---
 title: a collection of logs
+publish: true
 draft: false
 tags: 
 - #moc/briannamagtoto

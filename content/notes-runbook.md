@@ -1,5 +1,6 @@
 ---
 title: notes handbook
+publish: true
 draft: false
 tags:
 - home

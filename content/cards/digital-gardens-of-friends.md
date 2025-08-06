@@ -1,5 +1,6 @@
 ---
 title: digital gardens of friends
+publish: true
 draft: false
 tags: 
 - 
