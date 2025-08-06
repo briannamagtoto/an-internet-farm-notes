@@ -1,8 +1,5 @@
 ---
-title: home
-publish: true
-tags:
-- home
+{"publish":true,"title":"home","created":"2025-08-06T00:06:55.079-07:00","modified":"2025-08-06T00:09:20.298-07:00","tags":["home"],"cssclasses":""}
 ---
 
 This is where Brianna Magtoto's public-facing notes live. She has  an Obsidian folder + analog journal for more private facing thoughts/experiences, but this is a space that she will update her core beliefs, learnings, etc. 

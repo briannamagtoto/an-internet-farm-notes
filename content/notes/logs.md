@@ -1,8 +1,5 @@
 ---
-title: a collection of logs
-publish: true
-tags:
-- moc/briannamagtoto
+{"publish":true,"title":"a collection of logs","created":"2025-08-06T00:07:59.213-07:00","modified":"2025-08-06T00:10:12.073-07:00","tags":[null],"cssclasses":""}
 ---
 
 Archiving progression is becoming increasingly important to me. The below are things I'd like to keep track of and consistently update.
