@@ -216,8 +216,11 @@ a {
     @media all and not ($desktop) {
       padding: 0 1rem;
     }
+    @media all and ($tablet) {
+      margin: 0 1rem;
+    }
     @media all and ($mobile) {
-      margin: 0 auto;
+      margin: 0 1rem;
     }
 
     & .sidebar {

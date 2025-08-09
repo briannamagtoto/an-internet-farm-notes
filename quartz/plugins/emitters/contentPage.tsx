@@ -5,7 +5,7 @@ import HeaderConstructor from "../../components/Header"
 import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { FullPageLayout } from "../../cfg"
-import { pathToRoot } from "../../util/path"
+import { pathToRoot, resolveRelative } from "../../util/path"
 import { defaultContentPageLayout, sharedPageComponents } from "../../../quartz.layout"
 import { Content } from "../../components"
 import { styleText } from "util"
@@ -14,6 +14,9 @@ import { BuildCtx } from "../../util/ctx"
 import { Node } from "unist"
 import { StaticResources } from "../../util/resources"
 import { QuartzPluginData } from "../vfile"
+import { visit } from "unist-util-visit"
+import { Root } from "hast"
+import { RelativeURL } from "../../util/path"
 
 async function processContent(
   ctx: BuildCtx,
@@ -85,6 +88,46 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
 
         // only process home page, non-tag pages, and non-index pages
         if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
+
+        /** Until the end of visit(), this code snippet is from
+         * https://github.com/jackyzha0/quartz/issues/454#issuecomment-2408792538
+         * by auctumnus
+         * 
+         * It removes all the links that would lead to missing pages, ie.
+         * 
+         * [[Missing link]] when Missing link.md does not exist.
+         */
+        const allSlugs = allFiles.map((f) => (f.slug ? resolveRelative(slug, f.slug) : ""))
+        
+        visit(tree as Root, "element", (elem) => {
+          if (elem.tagName === "a" && elem.properties.href) {
+            const href = elem.properties.href.toString()
+        
+            if (href.startsWith("#")) {
+              return
+            }
+        
+            if (!allSlugs.includes(href as RelativeURL)) {
+              if (elem.properties.className === undefined) {
+                elem.properties.className = "dead-link"
+              } else if (Array.isArray(elem.properties.className)) {
+                if (elem.properties.className.includes("external")) {
+                  return
+                }
+                elem.properties.className.push("dead-link")
+              } else if (typeof elem.properties.className === "string") {
+                if (elem.properties.className.includes("external")) {
+                  return
+                }
+                elem.properties.className += " dead-link"
+              } else {
+                return
+              }
+              elem.tagName = "span"
+            }
+          }
+        })
+
         yield processContent(ctx, tree, file.data, allFiles, opts, resources)
       }
 
@@ -113,6 +156,38 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
         const slug = file.data.slug!
         if (!changedSlugs.has(slug)) continue
         if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
+
+        // Apply dead link detection for partial emit as well
+        const allSlugs = allFiles.map((f) => (f.slug ? resolveRelative(slug, f.slug) : ""))
+        
+        visit(tree as Root, "element", (elem) => {
+          if (elem.tagName === "a" && elem.properties.href) {
+            const href = elem.properties.href.toString()
+        
+            if (href.startsWith("#")) {
+              return
+            }
+        
+            if (!allSlugs.includes(href as RelativeURL)) {
+              if (elem.properties.className === undefined) {
+                elem.properties.className = "dead-link"
+              } else if (Array.isArray(elem.properties.className)) {
+                if (elem.properties.className.includes("external")) {
+                  return
+                }
+                elem.properties.className.push("dead-link")
+              } else if (typeof elem.properties.className === "string") {
+                if (elem.properties.className.includes("external")) {
+                  return
+                }
+                elem.properties.className += " dead-link"
+              } else {
+                return
+              }
+              elem.tagName = "span"
+            }
+          }
+        })
 
         yield processContent(ctx, tree, file.data, allFiles, opts, resources)
       }
