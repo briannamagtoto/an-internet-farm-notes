@@ -15,8 +15,8 @@ export const FolderMapping: QuartzTransformerPlugin<Partial<Options>> = (userOpt
       return [
         () => {
           return (tree, file) => {
-            // Check if frontmatter has publish-folder field
-            const publishFolder = file.data.frontmatter?.["publish-folder"]
+            // Check if frontmatter has folder field
+            const publishFolder = file.data.frontmatter?.["folder"]
             
             if (publishFolder && typeof publishFolder === "string") {
               // Get the original filename without path
@@ -41,7 +41,7 @@ export const FolderMapping: QuartzTransformerPlugin<Partial<Options>> = (userOpt
 declare module "vfile" {
   interface DataMap {
     frontmatter: { [key: string]: unknown } & {
-      "publish-folder"?: string
+      "folder"?: string
     }
   }
 }
