@@ -5,7 +5,7 @@
 ## 08/2025
 **August 8, 2025**: add [[Atlas/MOCs/interests]], [[Atlas/MOCs/tech]]
 
-**August 6, 2025**: create [[Cards/neovim]], [[just-in-time-learning]]
+**August 6, 2025**: create [[Cards/neovim]], [just in time learning](2-just-in-time-learning.md)
 
 **August 5, 2025:** integrated personal obsidian notes w/ these to streamline process
 
