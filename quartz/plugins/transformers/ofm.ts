@@ -130,6 +130,8 @@ export const tableWikilinkRegex = new RegExp(/(!?\[\[[^\]]*?\]\]|\[\^[^\]]*?\])/
 
 const highlightRegex = new RegExp(/==([^=]+)==/g)
 const commentRegex = new RegExp(/%%[\s\S]*?%%/g)
+const dataviewRegex = new RegExp(/```dataview[\s\S]*?```/g)
+const unlinkedFilesRegex = new RegExp(/---\nunlinked files[\s\S]*$/g)
 // from https://github.com/escwxyz/remark-obsidian-callout/blob/main/src/index.ts
 const calloutRegex = new RegExp(/^\[\!([\w-]+)\|?(.+?)?\]([+-]?)/)
 const calloutLineRegex = new RegExp(/^> *\[\!\w+\|?.*?\][+-]?.*$/gm)
@@ -158,11 +160,14 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
 
   return {
     name: "ObsidianFlavoredMarkdown",
-    textTransform(_ctx, src) {
+    textTransform(ctx, src) {
       // do comments at text level
       if (opts.comments) {
         src = src.replace(commentRegex, "")
       }
+
+      // remove unlinked files section from any file that has it
+      src = src.replace(unlinkedFilesRegex, "")
 
       // pre-transform blockquotes
       if (opts.callouts) {
@@ -210,6 +215,21 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
     },
     markdownPlugins(ctx) {
       const plugins: PluggableList = []
+
+      // remove dataview code blocks from interests note
+      plugins.push(() => {
+        return (tree: Root, file) => {
+          const filePath = file.path || ""
+          if (filePath.includes("interests.md")) {
+            visit(tree, "code", (node, index, parent) => {
+              if (node.lang === "dataview" && parent && index !== undefined) {
+                parent.children.splice(index, 1)
+                return [SKIP, index]
+              }
+            })
+          }
+        }
+      })
 
       // regex replacements
       plugins.push(() => {
