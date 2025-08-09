@@ -29,6 +29,16 @@ export const FolderMapping: QuartzTransformerPlugin<Partial<Options>> = (userOpt
               }
             }
             
+            // Auto-detect based on file path if no explicit folder is set
+            if (!publishFolder) {
+              const relativePath = file.data.relativePath as string
+              if (relativePath.includes('/MOCs/')) {
+                publishFolder = "MOCs"
+              } else if (relativePath.includes('/Cards/')) {
+                publishFolder = "Cards"
+              }
+            }
+            
             if (publishFolder && typeof publishFolder === "string") {
               // Get the original filename without path
               const basename = path.basename(file.data.relativePath as string, ".md")
