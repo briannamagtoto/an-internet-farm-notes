@@ -15,8 +15,19 @@ export const FolderMapping: QuartzTransformerPlugin<Partial<Options>> = (userOpt
       return [
         () => {
           return (tree, file) => {
-            // Check if frontmatter has folder field
-            const publishFolder = file.data.frontmatter?.["folder"]
+            // Check if frontmatter has folder field or special tag
+            let publishFolder = file.data.frontmatter?.["folder"]
+            
+            // Fallback: Check for folder tags like "folder/MOCs" or "folder/Cards"
+            if (!publishFolder && file.data.frontmatter?.tags) {
+              const tags = file.data.frontmatter.tags as string[]
+              for (const tag of tags) {
+                if (typeof tag === 'string' && tag.startsWith('folder/')) {
+                  publishFolder = tag.replace('folder/', '')
+                  break
+                }
+              }
+            }
             
             if (publishFolder && typeof publishFolder === "string") {
               // Get the original filename without path
