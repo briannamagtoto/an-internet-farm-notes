@@ -132,6 +132,7 @@ const highlightRegex = new RegExp(/==([^=]+)==/g)
 const commentRegex = new RegExp(/%%[\s\S]*?%%/g)
 const dataviewRegex = new RegExp(/```dataview[\s\S]*?```/g)
 const unlinkedFilesRegex = new RegExp(/---\nunlinked files[\s\S]*$/g)
+const publishHiddenRegex = new RegExp(/§[\s\S]*?§/g)
 // from https://github.com/escwxyz/remark-obsidian-callout/blob/main/src/index.ts
 const calloutRegex = new RegExp(/^\[\!([\w-]+)\|?(.+?)?\]([+-]?)/)
 const calloutLineRegex = new RegExp(/^> *\[\!\w+\|?.*?\][+-]?.*$/gm)
@@ -168,6 +169,9 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
 
       // remove unlinked files section from any file that has it
       src = src.replace(unlinkedFilesRegex, "")
+      
+      // remove custom hidden sections from published site (after wikilinks are processed)
+      src = src.replace(publishHiddenRegex, "")
 
       // pre-transform blockquotes
       if (opts.callouts) {
@@ -571,6 +575,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
     },
     htmlPlugins() {
       const plugins: PluggableList = [rehypeRaw]
+
 
       if (opts.parseBlockReferences) {
         plugins.push(() => {

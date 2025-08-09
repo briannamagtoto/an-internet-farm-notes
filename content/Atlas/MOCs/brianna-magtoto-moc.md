@@ -8,3 +8,4 @@ I want to be intentional about my consumption - hold me accountable to reading l
 
 This is a list of [[projects]] I'm either currently working on / sustaining or have completed. Recently, I've had lots of creative momentum, so I'm feeling excited about all of these. Similarly, here is a [[Cards/logs]] that relate to some projects I've been cultivatiing.
 
+§§ test §§ 
