@@ -58,13 +58,12 @@ a, a:visited, a:hover, a:active {
 
 /* ===== DEAD LINKS ===== */
 .dead-link {
-    color: #666666 !important;
-    text-decoration: line-through !important;
+    color: #482401 !important;
+    text-decoration: none !important;
     cursor: default !important;
-    opacity: 0.6 !important;
 }
 
 .dead-link:hover {
-    color: #666666 !important;
-    text-decoration: line-through !important;
+    color: #482401 !important;
+    text-decoration: none !important;
 }
