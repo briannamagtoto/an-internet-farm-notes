@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"brianna magtoto moc","created":"2025-08-06T00:01:51.729-07:00","modified":"2025-08-09T13:15:00.270-07:00","tags":["moc/briannamagtoto"],"cssclasses":"","folder":"MOCs"}
+{"publish":true,"title":"brianna magtoto moc","created":"2025-08-06T00:01:51.729-07:00","modified":"2025-08-09T13:15:00.270-07:00","tags":["moc/briannamagtoto"],"cssclasses":""}
 ---
 
 This houses more personal information about the author of these notes, Brianna Magtoto. 

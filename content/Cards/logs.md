@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"a collection of logs","created":"2025-08-06T00:07:59.213-07:00","modified":"2025-08-09T13:15:13.307-07:00","cssclasses":"","folder":"Cards"}
+{"publish":true,"title":"a collection of logs","created":"2025-08-06T00:07:59.213-07:00","modified":"2025-08-09T13:15:13.307-07:00","cssclasses":""}
 ---
 
 Archiving progression is becoming increasingly important to me. The below are things I'd like to keep track of and consistently update.
