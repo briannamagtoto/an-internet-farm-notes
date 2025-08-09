@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"digital gardens of friends","created":"2025-08-06T00:07:42.813-07:00","modified":"2025-08-08T18:45:10.000-07:00","cssclasses":""}
+{"publish":true,"title":"digital gardens of friends","created":"2025-07-16","modified":"2025-08-08T23:05:25.859-07:00","cssclasses":""}
 ---
 
 This is a directory of the digital gardens (or websites) that my friends cultivate:
