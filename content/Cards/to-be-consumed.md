@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"to be consumed","created":"2025-07-20","modified":"2025-08-09T13:16:04.016-07:00","tags":["moc/briannamagtoto"],"cssclasses":""}
+{"publish":true,"title":"to be consumed","created":"2025-07-20","modified":"2025-08-09T13:18:59.220-07:00","tags":["moc/briannamagtoto"],"cssclasses":""}
 ---
 
 A log of things that I want to consume. Please let me know your thoughts on any of the below... or if you want to co-read with me too / exchange thoughts! 
