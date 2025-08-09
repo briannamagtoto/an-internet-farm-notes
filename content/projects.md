@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"projects","created":"2025-07-19","modified":"2025-08-06T16:07:34.242-07:00","tags":["home"],"cssclasses":""}
+{"publish":true,"title":"projects","created":"2025-07-19","modified":"2025-08-08T18:45:09.000-07:00","tags":["home"],"cssclasses":""}
 ---
 
 ongoing: 
