@@ -1,13 +1,16 @@
 ---
-{"publish":true,"title":"changelog","created":"2025-08-08","modified":"2025-08-08T21:46:01.156-07:00","cssclasses":""}
+{"publish":true,"title":"changelog","created":"2025-08-08","modified":"2025-08-08T23:23:41.958-07:00","cssclasses":""}
 ---
 
 ## 08/2025
-**August 3, 2025**: create [[articles & mini essays]]
+**August 8, 2025**: add [[Atlas/MOCs/interests]], [[Atlas/MOCs/tech]]
+
+**August 6, 2025**: create [[Cards/neovim]], [just in time learning](2-just-in-time-learning.md)
 
 **August 5, 2025:** integrated personal obsidian notes w/ these to streamline process
 
-**August 6, 2025**: create [[Cards/neovim]], [just in time learning](2-just-in-time-learning.md)
+**August 3, 2025**: create [[articles & mini essays]]
+
 
 ## 07/2025
 **July 27 2025**: update [[projects]]
