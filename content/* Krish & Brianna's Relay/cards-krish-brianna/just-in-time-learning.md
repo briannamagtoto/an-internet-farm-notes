@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"just in time learning","created":"2025-08-09","modified":"2025-08-09T16:39:20.026-07:00","cssclasses":""}
+{"publish":true,"title":"just in time learning","created":"2025-08-09","modified":"2025-08-09T16:39:20.026-07:00","cssclasses":"","tags":["folder/Cards"]}
 ---
 
 the concept of providing information and learning resources precisely when they are needed by the learner, rather th
