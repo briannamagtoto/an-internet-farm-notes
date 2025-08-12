@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"home","created":"2025-07-16","modified":"2025-08-09T18:01:29.718-07:00","tags":["home"],"cssclasses":""}
+{"publish":true,"title":"home","created":"2025-07-16","modified":"2025-08-09T21:01:29.718-04:00","tags":["home"],"cssclasses":""}
 ---
 
 This is where Brianna Magtoto's public-facing notes live. She has  an [Obsidian](https://obsidian.md/) folder + analog journal for more private facing thoughts/experiences, but this is a space that she will update her core beliefs, learnings, notes etc. 
