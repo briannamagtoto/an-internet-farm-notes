@@ -1,6 +1,15 @@
 .content-meta {
   margin-top: 0;
   color: var(--darkgray);
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  
+  // Allow wrapping on mobile
+  @media (max-width: 600px) {
+    word-break: break-word;
+    hyphens: auto;
+    line-height: 1.4;
+  }
 
   &[show-comma="true"] {
     > *:not(:last-child) {
@@ -9,6 +18,17 @@
       &::after {
         content: ",";
       }
+    }
+  }
+  
+  // Make date elements more flexible
+  span, time {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    
+    @media (max-width: 600px) {
+      display: inline-block;
+      max-width: 100%;
     }
   }
 }
