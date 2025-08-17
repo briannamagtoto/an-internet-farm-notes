@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"changelog","created":"2025-08-08","modified":"2025-08-09T02:23:41.958-04:00","cssclasses":""}
+{"publish":true,"title":"changelog","created":"2025-08-08","modified":"2025-08-13T20:34:37.523-04:00","cssclasses":""}
 ---
 
 ## 08/2025
@@ -15,10 +15,10 @@
 ## 07/2025
 **July 27 2025**: update [[projects]]
 
-**July 25 2025**: update [[Cards/digital-gardens-of-friends]] and [[Cards/logs]]
+**July 25 2025**: update [[Cards/logs]]
 
 **July 20 2025**: create [[Cards/to-be-consumed]], [[Cards/logs]]
 
 **July 19 2025**: update quartz photo, create [[projects]], [[Atlas/MOCs/brianna-magtoto-moc]]
 
-**July 16 2025** : create [[index]], [[notes-runbook]], [[Cards/digital-gardens-of-friends]]
+**July 16 2025** : create [[index]], [[notes-handbook]], [[digital-gardens-of-friends]]

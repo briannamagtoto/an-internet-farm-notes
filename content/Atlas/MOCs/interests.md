@@ -30,6 +30,7 @@ I lean creatively and am captivated by [[Cards/design]]. I find [[Cards/web-desi
 
 ---
 unlinked files
+- [[notes-handbook\|notes-handbook]]
 - [[Cards/Learning System\|Learning System]]
 - [[Cards/Content\|Content]]
 
