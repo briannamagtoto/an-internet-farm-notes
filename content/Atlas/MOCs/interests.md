@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"interests","created":"2025-08-08","modified":"2025-08-09T20:35:43.467-04:00","tags":["folder/MOCs"],"cssclasses":""}
+{"publish":true,"title":"interests","created":"2025-08-08","modified":"2025-08-27T10:38:54.050-04:00","tags":["folder/MOCs"],"cssclasses":""}
 ---
 
 A broad list of [what excites me](what-excites-me.md). And also [awesome hobbies](awesome-hobbies.md) I want to keep semi-consistent. 
@@ -8,7 +8,7 @@ A broad list of [what excites me](what-excites-me.md). And also [awesome hobbies
 
 [[Cards/artificial intelligence]] is important to me, how can I use it to augment my creativity & productivity? How to sustain human connection in age of AI? What role does it play in pedagogy/education, etc. 
 
-My relationship with [[Atlas/MOCs/tech]] & how to use it as a medium of expression. Also wanting to be more technical -> create hardware & software projects. Incredibly fascinated by [critical computing](critical-computing.md), grounding technical concepts in liberal-arts frameworks/thought.
+My relationship with [[Atlas/MOCs/tech]] & how to use it as a medium of expression. Also wanting to be more technical -> create hardware & software projects. Incredibly fascinated by [critical computing](critical-computing.md), grounding technical concepts in liberal-arts frameworks/thought. Theoretical [[+ Encounters/computer-science]] is also quite compelling 
 
 Deeply interested in humans and [[Cards/psychology]]. What drives human thought, feeling, and behavior? A related field is [[Cards/cognitive science]] which combines many of my intellectual interests. 
 
@@ -30,6 +30,7 @@ I lean creatively and am captivated by [[Cards/design]]. I find [[Cards/web-desi
 
 ---
 unlinked files
+- [[changelog\|changelog]]
 - [[notes-handbook\|notes-handbook]]
 - [[Cards/Learning System\|Learning System]]
 - [[Cards/Content\|Content]]

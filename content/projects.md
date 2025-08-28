@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"projects","created":"2025-07-19","modified":"2025-08-08T21:45:09.000-04:00","tags":["home"],"cssclasses":""}
+{"publish":true,"title":"projects","created":"2025-07-19","modified":"2025-08-28T16:02:17.787-04:00","tags":["home"],"cssclasses":""}
 ---
 
 ongoing: 
@@ -14,6 +14,8 @@ ongoing:
 - attempting to write an article...
 
 - making a short film !?
+
+- [hyperlink/hypertext exhibition](CPA-hyperlink) 
 
 ideas: 
 - interactive women's desktop internet art piece inspired by this [are.na page](https://www.are.na/claire-l-evans/lovelace-women-s-desktops)
