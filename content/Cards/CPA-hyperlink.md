@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Hyperlink exhibition","created":"2025-08-29","modified":"2025-09-04T16:23:05.259-04:00","cssclasses":""}
+{"publish":true,"title":"Hyperlink exhibition","created":"2025-08-29","modified":"2025-09-04T16:33:31.746-04:00","cssclasses":""}
 ---
 
 
@@ -27,10 +27,12 @@ Budget & things to buy:
 - Projector (or can be rented)
 - Hardware components (Adafruit, TBD)
 
+Chat w/ Robles
 Track history of links -> tree formation -> spiderweb of things 
 
 Be clear with the central ideas -> be open to movement 
 
-
 Sources:
-[A book with hyperlinks by Maria Fischer](https://www.designer-daily.com/a-book-with-hyperlinks-by-maria-fischer-56880)
+- [A book with hyperlinks by Maria Fischer](https://www.designer-daily.com/a-book-with-hyperlinks-by-maria-fischer-56880)
+- 
+
