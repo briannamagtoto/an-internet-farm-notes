@@ -17,7 +17,7 @@ ongoing:
 
 - [hyperlink/hypertext exhibition](CPA-hyperlink.md) 
 
-- [[+ Encounters/JE Newspaper]]
+- [[Cards/JE Newspaper]]
 
 ideas: 
 - interactive women's desktop internet art piece inspired by this [are.na page](https://www.are.na/claire-l-evans/lovelace-women-s-desktops)
