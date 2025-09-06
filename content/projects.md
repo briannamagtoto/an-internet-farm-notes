@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"projects","created":"2025-07-19","modified":"2025-09-04T16:36:58.314-04:00","tags":["home"],"cssclasses":""}
+{"publish":true,"title":"projects","created":"2025-07-19","modified":"2025-09-06T17:12:00.614-04:00","tags":["home"],"cssclasses":""}
 ---
 
 ongoing: 
@@ -18,6 +18,8 @@ ongoing:
 - [hyperlink/hypertext exhibition](CPA-hyperlink.md) 
 
 - [[Cards/JE Newspaper]]
+
+- [[Cards/degrees-of-separation]]
 
 ideas: 
 - interactive women's desktop internet art piece inspired by this [are.na page](https://www.are.na/claire-l-evans/lovelace-women-s-desktops)
