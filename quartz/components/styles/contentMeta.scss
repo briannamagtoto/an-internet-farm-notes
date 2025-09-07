@@ -1,5 +1,6 @@
 .content-meta {
   margin-top: 0;
+  margin-right: 1rem;
   color: var(--darkgray);
   word-wrap: break-word;
   overflow-wrap: break-word;
@@ -9,6 +10,9 @@
     word-break: break-word;
     hyphens: auto;
     line-height: 1.4;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    margin-right: 0.75rem;
   }
 
   &[show-comma="true"] {
@@ -19,6 +23,18 @@
         content: ",";
       }
     }
+    
+    // On mobile, reduce spacing and allow better wrapping
+    @media (max-width: 600px) {
+      > *:not(:last-child) {
+        margin-right: 4px;
+        
+        &::after {
+          content: ", ";
+          white-space: pre;
+        }
+      }
+    }
   }
   
   // Make date elements more flexible
@@ -27,8 +43,11 @@
     overflow-wrap: break-word;
     
     @media (max-width: 600px) {
-      display: inline-block;
+      display: inline;
       max-width: 100%;
+      white-space: normal;
+      overflow-wrap: anywhere;
+      word-break: break-word;
     }
   }
 }
