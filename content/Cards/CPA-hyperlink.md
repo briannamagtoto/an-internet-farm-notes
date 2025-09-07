@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Hyperlink exhibition","created":"2025-08-29","modified":"2025-09-07T10:11:55.068-04:00","cssclasses":""}
+{"publish":true,"title":"Hyperlink exhibition","created":"2025-08-29","modified":"2025-09-07T10:14:44.660-04:00","cssclasses":""}
 ---
 
 
@@ -43,7 +43,7 @@ White canvas fabric 10-12 yards from Michaels ($60)
 
 PVC pipe or wooden frame materials from Home Depot ($30)
 
-Mounting clips/grommets ($10) - total: $100
+Mounting clips/grommets ($10)
 
 **Total Amount Requested**: $730
 
