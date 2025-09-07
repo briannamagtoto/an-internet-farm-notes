@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Hyperlink exhibition","created":"2025-08-29","modified":"2025-09-07T10:04:40.275-04:00","cssclasses":""}
+{"publish":true,"title":"Hyperlink exhibition","created":"2025-08-29","modified":"2025-09-07T10:08:38.862-04:00","cssclasses":""}
 ---
 
 
@@ -37,7 +37,7 @@ Tabletop Display Stands: (3-5 acrylic easels) $40
 
 Zine Printing: (16 pages, color, 75 copies) $200
 
-Scenic Materials: (White canvas fabric 10-12 yards from Joann Fabrics $60, PVC pipe or wooden frame materials from Home Depot $30, mounting clips/grommets, $10) - total: $100
+Scenic Materials: White canvas fabric 10-12 yards from Michaels ($60), PVC pipe or wooden frame materials from Home Depot ($30), mounting clips/grommets ($10) - total: $100
 
 **Total Amount Requested**: $730
 
