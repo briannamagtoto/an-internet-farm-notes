@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Hyperlink exhibition","created":"2025-08-29","modified":"2025-09-07T11:29:11.530-04:00","cssclasses":""}
+{"publish":true,"title":"Hyperlink exhibition","created":"2025-08-29","modified":"2025-09-07T19:30:24.902-04:00","cssclasses":""}
 ---
 
 
@@ -53,3 +53,5 @@ Sources:
 - [A book with hyperlinks by Maria Fischer](https://www.designer-daily.com/a-book-with-hyperlinks-by-maria-fischer-56880)
 
 Here is [[Cards/hyperlink-exhibition-progress]] for accountability purposes! 
+
+![[Extras/Images/CPA-hyperlink-emails.png]]
