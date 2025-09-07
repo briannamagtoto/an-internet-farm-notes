@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Hyperlink exhibition","created":"2025-08-29","modified":"2025-09-07T10:14:44.660-04:00","cssclasses":""}
+{"publish":true,"title":"Hyperlink exhibition","created":"2025-08-29","modified":"2025-09-07T11:29:11.530-04:00","cssclasses":""}
 ---
 
 
@@ -27,28 +27,29 @@ I deeply enjoy multimedia forms of making and this exhibit will capture that:
 
 Budget & things to buy: 
 
-Yarn/String Materials: (Michaels) $20
+Yarn/String Materials: (Michaels) $20 
 
-Arduino Electronics: (Adafruit - Arduino Uno, 15 capacitive touch sensors, 15 LEDs, resistors, jumper wires, breadboards, USB cables, power supply, extension cables for distributed setup) $320
+Arduino Electronics: (Adafruit - Arduino Uno, 10 capacitive touch sensors, 10 LEDs, resistors, jumper wires, breadboards, USB cables, power supply, extension cables for distributed setup) $220 
 
-Wall Anchor Hardware: (screws, wall anchors, eye hooks - Home Depot) $50
+Wall Anchor Hardware: (screws, wall anchors, eye hooks - Home Depot) $50 
 
-Tabletop Display Stands: (3-5 acrylic easels) $40
+Tabletop Display Stands: (3-5 acrylic easels) $20 
 
-Zine Printing: (16 pages, color, 75 copies) $200
+Zine Printing: (16 pages, color, 50 copies) $140 
 
 Scenic Materials: 
 
-White canvas fabric 10-12 yards from Michaels ($60)
-
-PVC pipe or wooden frame materials from Home Depot ($30)
+White canvas fabric 6-8 yards from Michaels ($40) 
 
 Mounting clips/grommets ($10)
 
-**Total Amount Requested**: $730
+**Total Amount Requested**: $500
 
 Ideas from Dean Robles
+
 Track history of links -> tree formation -> spiderweb of things 
 
 Sources:
 - [A book with hyperlinks by Maria Fischer](https://www.designer-daily.com/a-book-with-hyperlinks-by-maria-fischer-56880)
+
+Here is [[Cards/hyperlink-exhibition-progress]] for accountability purposes! 
