@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Hyperlink exhibition","created":"2025-08-29","modified":"2025-09-07T19:30:24.902-04:00","cssclasses":""}
+{"publish":true,"title":"Hyperlink exhibition","created":"2025-08-29","modified":"2025-09-09T14:30:47.373-04:00","cssclasses":""}
 ---
 
 
@@ -24,7 +24,16 @@ I deeply enjoy multimedia forms of making and this exhibit will capture that:
 - Fun games to get friends to interact -- Wikipedia races, etc. I want this exhibit to also feel like an event where an open discourse about internet culture, knowledge consumption, etc. emerges
 - I also want to experiment with live performance aspects! 
 
+Ideas from Dean Robles
 
+Track history of links -> tree formation -> spiderweb of things 
+
+Sources:
+- [A book with hyperlinks by Maria Fischer](https://www.designer-daily.com/a-book-with-hyperlinks-by-maria-fischer-56880)
+
+Here is [[Cards/hyperlink-exhibition-progress]] for accountability purposes! 
+§
+![[Extras/Images/CPA-hyperlink-emails.png]]
 Budget & things to buy: 
 
 Yarn/String Materials: (Michaels) $20 
@@ -44,14 +53,4 @@ White canvas fabric 6-8 yards from Michaels ($40)
 Mounting clips/grommets ($10)
 
 **Total Amount Requested**: $500
-
-Ideas from Dean Robles
-
-Track history of links -> tree formation -> spiderweb of things 
-
-Sources:
-- [A book with hyperlinks by Maria Fischer](https://www.designer-daily.com/a-book-with-hyperlinks-by-maria-fischer-56880)
-
-Here is [[Cards/hyperlink-exhibition-progress]] for accountability purposes! 
-
-![[Extras/Images/CPA-hyperlink-emails.png]]
+§
