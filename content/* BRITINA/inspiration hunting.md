@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"inspiration hunting","created":"2025-09-14T23:44:38.062-04:00","modified":"2025-09-15T10:07:52.880-04:00","tags":["#folder/Cards"],"cssclasses":""}
+{"publish":true,"title":"inspiration hunting","created":"2025-09-14T23:44:38.062-04:00","modified":"2025-09-15T10:11:48.061-04:00","tags":["#folder/Cards"],"cssclasses":""}
 ---
 
 When we feel that we are losing curiosity and getting stuck in boxes & loops, we shall **inspiration hunt**
@@ -10,4 +10,4 @@ What are examples of inspiration hunting?
 - Going to events (retreats, random stuff on campus / near us, maybe in NYC) - most recently I (Brianna) went to Printed Matter's Art Books Fair and that was a great source of inspiration hunting 
 - Talk to other creatives & people who inspire you 
 
-Why inspiration hunt? -> Live more optimistically, be more inclined to create, 
+Why inspiration hunt? -> Live more optimistically, be more inclined to create 
