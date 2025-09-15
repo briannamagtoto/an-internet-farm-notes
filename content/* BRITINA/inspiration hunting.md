@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-14T23:44:38.062-04:00","modified":"2025-09-14T23:51:01.564-04:00","tags":["#folder/Cards"],"cssclasses":""}
+{"publish":true,"title":"inspiration hunting","created":"2025-09-14T23:44:38.062-04:00","modified":"2025-09-15T10:07:52.880-04:00","tags":["#folder/Cards"],"cssclasses":""}
 ---
 
 When we feel that we are losing curiosity and getting stuck in boxes & loops, we shall **inspiration hunt**

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"interests","created":"2025-08-08","modified":"2025-09-02T13:26:17.890-04:00","tags":["folder/MOCs"],"cssclasses":""}
+{"publish":true,"title":"interests","created":"2025-08-08","modified":"2025-09-15T10:06:37.781-04:00","tags":["folder/MOCs"],"cssclasses":""}
 ---
 
 A broad list of [what excites me](what-excites-me.md). And also [awesome hobbies](awesome-hobbies.md) I want to keep semi-consistent. 

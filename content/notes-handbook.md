@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"notes handbook","created":"2025-07-16","modified":"2025-08-12T12:44:38.974-04:00","tags":["home"],"cssclasses":""}
+{"publish":true,"title":"notes handbook","created":"2025-07-16","modified":"2025-09-15T10:03:32.511-04:00","tags":["home"],"cssclasses":""}
 ---
 
 My notes are organized into "maps of content" (MOCs) that I will try to delineate here for clarity. Though, you should also check all the backlinks because some MOCs might seep into others. I like to connect ideas when I can. 
@@ -13,6 +13,5 @@ All notes will be stored in the `/cards` folder, other than notes tagged with `h
 
 ---
 
-> P.S. if you're interested, here is a [[changelog]]: updates what I learn about / notes I create. It'll provide some insightful documentation for my future self to look at as well. 
 
 back to [[index]]
