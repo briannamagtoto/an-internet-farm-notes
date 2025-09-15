@@ -20,7 +20,7 @@ I lean creatively and am captivated by [[Cards/design]]. I find [[Cards/web-desi
 
 [[Cards/writing]]
 
-[[+ Encounters/music]]
+[[Cards/music]]
 
 §
 [[Cards/learning]], a place where i learn how to learn. attempting to optimize my learning system in order to feel more academically fulfilled 
@@ -32,7 +32,6 @@ I lean creatively and am captivated by [[Cards/design]]. I find [[Cards/web-desi
 
 ---
 unlinked files
-- [[changelog\|changelog]]
 - [[notes-handbook\|notes-handbook]]
 - [[Cards/Learning System\|Learning System]]
 - [[Cards/Content\|Content]]

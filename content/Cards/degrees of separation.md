@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-05","modified":"2025-09-06T17:11:51.663-04:00","cssclasses":""}
+{"publish":true,"title":"degrees of separation","created":"2025-09-15","modified":"2025-09-15T10:00:49.155-04:00","cssclasses":""}
 ---
 
 Everyone is six degrees of separation away. On this campus (& space), it's more like two or three. I want to leverage this for community building. 
