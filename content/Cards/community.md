@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"community","created":"2025-08-06T03:07:28.393-04:00","modified":"2025-08-09T20:37:54.212-04:00","tags":["folder/Cards"],"cssclasses":""}
+{"publish":true,"title":"Community","created":"2025-08-06T03:07:28.393-04:00","modified":"2025-09-26T23:46:42.098-04:00","tags":["folder/Cards"],"cssclasses":""}
 ---
 
 
