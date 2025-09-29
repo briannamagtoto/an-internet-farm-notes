@@ -1,8 +1,10 @@
 ---
-{"publish":true,"title":"playdate","created":"2025-09-27","modified":"2025-09-27T19:55:01.330-04:00","cssclasses":""}
+{"publish":true,"title":"Playdate: an exploration in creative community building","created":"2025-09-27","modified":"2025-09-27T21:20:19.228-04:00","cssclasses":""}
 ---
 
-Everyone is six degrees of separation away. On this campus (& space), it’s more like two or three. I want to leverage this for community building. 
+"Making sense of the world through play"
+
+Playdates should come back. We should all live in a world of whimsy and childlike curiosity. This is an intentional effort to bring back that culture. 
 
 This is inspired by [Friend of A Friend](https://friend-friend.org/about/), “a yearly gathering that brings together a group of individuals, all connected by mutual friends but who do not know each other yet. These individuals, artists and writers, spend 5 days sharing their practice, leading workshops for the group, and living and cooking together.”
 
@@ -13,6 +15,8 @@ However, instead of living together, we will intentionally be together and co-cr
 I find this compelling for plenty of reasons. Firstly, having someone in a space that you trust (a friend) makes you more receptive to share and be open. But, inter-mingling is of utmost importance.
 
 This is also an opportunity to strengthen attendee’s interpersonal bonds with their existing friends. In an effort to make this as handcrafted as possible, I will give each interested attendee and fun gift/invitation to then present to a friend that they’d think would be interested.
+
+It'll be one big, happy playdate. Invite your friend to a playdate! 
 
 Plan of action
 

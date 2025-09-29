@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"projects","created":"2025-07-19","modified":"2025-09-15T10:01:20.476-04:00","tags":["home"],"cssclasses":""}
+{"publish":true,"title":"projects","created":"2025-07-19","modified":"2025-09-27T19:51:10.365-04:00","tags":["home"],"cssclasses":""}
 ---
 
 ongoing: 
@@ -19,7 +19,7 @@ ongoing:
 
 - [[Cards/JE Newspaper]]
 
-- [[Cards/degrees of separation]]
+- [[Cards/playdate]]
 
 ideas: 
 - interactive women's desktop internet art piece inspired by this [are.na page](https://www.are.na/claire-l-evans/lovelace-women-s-desktops)
