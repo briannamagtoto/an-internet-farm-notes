@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Playdate: an exploration in creative community building","created":"2025-09-27","modified":"2025-09-30T14:49:14.277-04:00","cssclasses":""}
+{"publish":true,"title":"Playdate: an exploration in creative community building","created":"2025-09-27","modified":"2025-09-30T14:53:22.938-04:00","cssclasses":""}
 ---
 
 "Making sense of the world through experimental play"
@@ -36,7 +36,7 @@ Another really meaningful quote...
 
 Some fundamental beliefs and values: 
 
-[We are interwoven beings.](https://aeon.co/essays/in-classical-chinese-philosophy-all-actions-are-collective)Nothing exists alone. Individuality is an illusion. Life on this planet is an interwoven mesh of relational becoming.
+[We are interwoven beings.](https://aeon.co/essays/in-classical-chinese-philosophy-all-actions-are-collective) Nothing exists alone. Individuality is an illusion. Life on this planet is an interwoven mesh of relational becoming.
 
 I found this on Are.na and it feels particularly compelling for what I want to cultivate this experimental space to feel like
 
@@ -46,16 +46,16 @@ I found this on Are.na and it feels particularly compelling for what I want to c
 4. I’M NOT CREATING AN EXPERIENCE FOR YOU, I AM PROVIDING YOU WITH A SEED TO CREATE YOUR OWN EXPERIENCE — WE MUST ALL BE GIVEN THE OPPORTUNITY TO BECOME PART OF THE CREATION PROCESS 
 5. DARK SIDES — WE WILL EXPERIENCE NEW ITERATIONS OF PAIN WE MAY NOT HAVE FELT BEFORE AS A RESULT OF NEW WORLDS 
 6. FOSTERING CULTURE, OR “HORIZONTAL DEPTH” IN CULTURE CAN BE AT ODDS WITH GROWTH. WHAT DOES IT MEAN FOR GROWTH TO BE A GOAL? 
-7. I GUESS I HAVE TO LEARN TO CODE SO I CAN KEEP EXPANDING UPON APP INTIMACY RE: “I’D LIKE A SPOT THAT’S JUST FOR ME” — BUT ALSO AS THE WORLD EXPANDS, TURNING IN IS WHAT FEELS MOST PROGRESSIVE 
-8. COEXISTENCE WITH THIS NEW WORLD AND ITS TECHNOLOGIES VS COERCED DEPENDENCE. A SYMBIOSIS. 
-9. LONGEVITY — THE CREATION OF WORLDS YOU DO NOT REGULARLY NEED TO ESCAPE FROM 
-10. WHAT CAN WE DO, INSTEAD OF WHAT YOU CAN DO? 
-11. THE NEXT ROMANCE I WILL KNOW IS THE PROCESS OF DECODING, THE SUBTLETIES BETWEEN PURE UNDERSTANDING AND THE ENIGMATIC 
-12. THE ONBOARDING ISSUE — WE CAN DO HARD THINGS. IT IS NOT NECESSARILY ABOUT THE STEPS; WE HAVE USHERED IN OTHER ERAS AND TECHNOLOGIES, BUT TRANSLATING THEM IN A WAY, IN A CONTEXT, THAT IS BOTH CULTURALLY RESONANT AND INSPIRES EMOTIONAL AFFINITY. LET’S BREAK DOWN THE PROMISE. SEE POINT 2 AGAIN 
-13. HOW WILL YOU ASSERT THAT YOU ARE “HERE” IN THE NEW WORLD?
+7. COEXISTENCE WITH THIS NEW WORLD AND ITS TECHNOLOGIES VS COERCED DEPENDENCE. A SYMBIOSIS. 
+8. LONGEVITY — THE CREATION OF WORLDS YOU DO NOT REGULARLY NEED TO ESCAPE FROM 
+9. WHAT CAN WE DO, INSTEAD OF WHAT YOU CAN DO? 
+10. THE ONBOARDING ISSUE — WE CAN DO HARD THINGS. IT IS NOT NECESSARILY ABOUT THE STEPS; WE HAVE USHERED IN OTHER ERAS AND TECHNOLOGIES, BUT TRANSLATING THEM IN A WAY, IN A CONTEXT, THAT IS BOTH CULTURALLY RESONANT AND INSPIRES EMOTIONAL AFFINITY. LET’S BREAK DOWN THE PROMISE. SEE POINT 2 AGAIN 
+11. HOW WILL YOU ASSERT THAT YOU ARE “HERE” IN THE NEW WORLD?
 
  "Creativity is just connecting things"
 ___ 
+Disregard! This is here for archiving purposes
+
 (OLD IDEA - Friend of A Friend) - I wasn't entirely bought into this idea. Focused more on expansion and community than creation. Need to create a balance of both. 
 
 As of September 27th, I am rebranding this to Playdate. The "friend of a friend" concept will still stand but I want to emphasize the whimsy quality of these gatherings instead.
