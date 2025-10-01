@@ -1,10 +1,12 @@
 ---
-{"publish":true,"title":"Playdate: an exploration in creative community building","created":"2025-09-27","modified":"2025-09-30T14:53:22.938-04:00","cssclasses":""}
+{"publish":true,"title":"Playdate, an experiment in creative gathering","created":"2025-09-27","modified":"2025-09-30T22:18:58.929-04:00","cssclasses":""}
 ---
 
 "Making sense of the world through experimental play"
 
-A directory of self defined creators and makers. The goal is to schedule "playdates" with one another, in pursuit of finishing a creative project. Folks can choose whether or not to collaborate with other people. 
+A directory of self defined creators and makers. The goal is to schedule "playdates" with one another, in pursuit of engaging in something creative. Folks can choose whether or not to collaborate with other people. 
+
+### Ways of gathering
 
 There will be a couple ways folks will gather: 
 1. "Playdates" - intimate, intentional and PLAYFUL gatherings with a small group of people (2-5), where the goal is to make progress or get unstuck on a project and create alongside likeminded people 
@@ -14,7 +16,10 @@ There will be a couple ways folks will gather:
 (a stretch)
 Online gatherings might be on the table, depending on how this project pans out. Unsure yet! 
 
-This way, folks get to know each other more intimately & get involved with other projects - building trust and creating a community that feels tender & supportive. 
+### Why? 
+
+This way, folks get to know each other more intimately & get involved with other projects - building trust and creating a community that feels tender & supportive. Multimodal forms of gathering feels important to me. It's easier to get work done when you feel less "perceived," lending to the more intimate playdate format. 
+
 
 Some key themes to follow throughout: 
 1. Freedom / Self Agency & the capacity for play
