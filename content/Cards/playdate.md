@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Playdate, an experiment in creative gathering","created":"2025-09-27","modified":"2025-10-14T00:48:18.825-04:00","cssclasses":""}
+{"publish":true,"title":"Playdate, an experiment in creative gathering","created":"2025-09-27","modified":"2025-10-14T00:50:02.431-04:00","cssclasses":""}
 ---
 
 "Making sense of the world through experimental play"
@@ -55,7 +55,7 @@ I found this on Are.na and it feels particularly compelling for what I want to c
 6. How will you assert that you are "here" in the world?
 
  "Creativity is just connecting things"
-
+§
 ___ 
 Disregard! This is here for archiving purposes
 
@@ -90,3 +90,4 @@ Inclusivity on the “way out”
 - A wellness practice that makes people want to come back
 
 This is a space for self-directed creative projects. We’re bringing back the freedom of play. Explore with us, YOU KNOW YOU WANNA!
+§
