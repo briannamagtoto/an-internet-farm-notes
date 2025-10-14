@@ -1,8 +1,10 @@
 ---
-{"publish":true,"title":"Playdate, an experiment in creative gathering","created":"2025-09-27","modified":"2025-10-14T00:43:01.649-04:00","cssclasses":""}
+{"publish":true,"title":"Playdate, an experiment in creative gathering","created":"2025-09-27","modified":"2025-10-14T00:48:18.825-04:00","cssclasses":""}
 ---
 
 "Making sense of the world through experimental play"
+
+Playdates should come back. We should all live in a world of whimsy and childlike curiosity. This is an intentional effort to bring back that culture. 
 
 A directory of self defined creators and makers. The goal is to schedule "playdates" with one another, in pursuit of engaging in something creative. Folks can choose whether or not to collaborate with other people. 
 
@@ -60,8 +62,6 @@ Disregard! This is here for archiving purposes
 (OLD IDEA - Friend of A Friend) - I wasn't entirely bought into this idea. Focused more on expansion and community than creation. Need to create a balance of both. 
 
 As of September 27th, I am rebranding this to Playdate. The "friend of a friend" concept will still stand but I want to emphasize the whimsy quality of these gatherings instead.
-
-Playdates should come back. We should all live in a world of whimsy and childlike curiosity. This is an intentional effort to bring back that culture. 
 
 This is inspired by [Friend of A Friend](https://friend-friend.org/about/), “a yearly gathering that brings together a group of individuals, all connected by mutual friends but who do not know each other yet. These individuals, artists and writers, spend 5 days sharing their practice, leading workshops for the group, and living and cooking together.”
 
