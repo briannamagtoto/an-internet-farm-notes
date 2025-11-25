@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-09-04","modified":"2025-09-04T16:37:02.297-04:00","cssclasses":""}
+{"publish":true,"created":"2025-09-04","modified":"2025-11-24T13:37:32.904-08:00","cssclasses":""}
 ---
 
-The inspiration: 
-![je-newspaper-inspo|300](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0e075d4804a5095b9c19a9724329e483836e0735_img_2102.png)
+The inspiration: a twitter post about a localized newspaper for roommates - complete with articles from everyone, fake ads, a full crossword, etc.
+
 & recently, I've been thinking about community building. I think physical mediums of connection are increasingly becoming rare, and for adequate reason, but I want to bring back the handcrafted and intimate nature of the newspaper.
 
 I envision people delivering these newspapers at different entryways, and even to first-years on Old Campus. 

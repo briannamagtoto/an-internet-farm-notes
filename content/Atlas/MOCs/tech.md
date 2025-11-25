@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-03-16T20:32:09.000-04:00","modified":"2025-09-15T10:16:34.973-04:00","tags":["folder/MOCs"],"cssclasses":""}
+{"publish":true,"created":"2025-03-16T17:32:09.000-07:00","modified":"2025-09-15T07:16:34.973-07:00","tags":["folder/MOCs"],"cssclasses":""}
 ---
 
 

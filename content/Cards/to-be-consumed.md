@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"To be consumed","created":"2025-07-20","modified":"2025-09-26T23:47:44.949-04:00","tags":["folder/Cards"],"cssclasses":""}
+{"publish":true,"title":"To be consumed","created":"2025-07-20","modified":"2025-09-26T20:47:44.949-07:00","tags":["folder/Cards"],"cssclasses":""}
 ---
 
 A log of things that I want to consume. Please let me know your thoughts on any of the below... or if you want to co-read with me too / exchange thoughts! 

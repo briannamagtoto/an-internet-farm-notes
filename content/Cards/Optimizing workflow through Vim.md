@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-05T18:59:25.662-04:00","modified":"2025-08-09T20:38:05.804-04:00","tags":["folder/Cards"],"cssclasses":""}
+{"publish":true,"created":"2025-08-05T15:59:25.662-07:00","modified":"2025-08-09T17:38:05.804-07:00","tags":["folder/Cards"],"cssclasses":""}
 ---
 
 My friend Krish recently inspired me to explore ways to optimize productivity. I, like him, went into another rabbithole of customization. However, I want to prioritize sustainability and actually using my tools so from now on I'd like to apply a [just-in-time-learning](2-just-in-time-learning.md) principle. But in this case, I guess I'd have to rename it to just in time implementation. As in, I will iterate my workflow based on if I don't or do need something. 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Three systems thinking tools","created":"2025-08-28","modified":"2025-09-26T23:42:41.654-04:00","cssclasses":""}
+{"publish":true,"title":"Three systems thinking tools","created":"2025-08-28","modified":"2025-09-26T20:42:41.654-07:00","cssclasses":""}
 ---
 
 This was originally a voicenote that I have since cleaned up into a note

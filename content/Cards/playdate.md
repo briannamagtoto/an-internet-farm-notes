@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Playdate, an experiment in creative gathering","created":"2025-09-27","modified":"2025-10-14T00:50:02.431-04:00","cssclasses":""}
+{"publish":true,"title":"Playdate, an experiment in creative gathering","created":"2025-09-27","modified":"2025-10-13T21:50:02.431-07:00","cssclasses":""}
 ---
 
 "Making sense of the world through experimental play"

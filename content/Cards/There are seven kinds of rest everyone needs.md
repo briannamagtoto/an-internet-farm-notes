@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"There are seven kinds of rest everyone needs","created":"2025-09-26","modified":"2025-09-26T16:05:42.603-04:00","cssclasses":""}
+{"publish":true,"title":"There are seven kinds of rest everyone needs","created":"2025-09-26","modified":"2025-09-26T13:05:42.603-07:00","cssclasses":""}
 ---
 
 

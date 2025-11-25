@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"notes handbook","created":"2025-07-16","modified":"2025-09-15T10:26:31.826-04:00","tags":["home"],"cssclasses":""}
+{"publish":true,"title":"notes handbook","created":"2025-07-16","modified":"2025-09-15T07:26:31.826-07:00","tags":["home"],"cssclasses":""}
 ---
 
 My notes are organized into "maps of content" (MOCs) that I will try to delineate here for clarity. Though, you should also check all the backlinks because some MOCs might seep into others. I like to connect ideas when I can. 
