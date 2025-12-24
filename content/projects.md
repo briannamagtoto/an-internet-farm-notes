@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"projects","created":"2025-07-19","modified":"2025-11-24T13:33:48.343-08:00","tags":["home"],"cssclasses":""}
+{"publish":true,"title":"projects","created":"2025-07-19","modified":"2025-12-24T14:42:25.167-08:00","tags":["home"],"cssclasses":""}
 ---
 
 ongoing: 
@@ -9,7 +9,13 @@ ongoing:
 
 - member of [bastos lab](https://www.instagram.com/_bastos.lab/), a collective of filipinx graphic designers
 
-- [[Cards/playdate]]
+- [[Cards/Playdate, idea pitch]]
+
+- Kasama, filo org @ yale! 
+
+- women's center conference
+
+- BWBD @ yale <3 
 
 - attempting to write an article...
 
@@ -20,9 +26,6 @@ on pause:
 
 
 ideas: 
-- interactive women's desktop internet art piece inspired by this [are.na page](https://www.are.na/claire-l-evans/lovelace-women-s-desktops)
-
-- something that relates to UBER specific times  
 
 - [[Cards/JE Newspaper]]
 

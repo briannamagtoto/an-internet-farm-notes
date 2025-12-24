@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"CPA Project","created":"2025-08-29","modified":"2025-11-03T23:38:49.119-08:00","cssclasses":""}
+{"publish":true,"title":"CPA Project","created":"2025-08-29","modified":"2025-12-02T14:14:32.285-05:00","cssclasses":""}
 ---
 
 [[+ Encounters/Memory exhibit]]
@@ -33,26 +33,3 @@ Sources:
 - [A book with hyperlinks by Maria Fischer](https://www.designer-daily.com/a-book-with-hyperlinks-by-maria-fischer-56880)
 
 Here is [[Cards/exhibition-progress]] for accountability purposes! 
-
-§
-![[Extras/Images/CPA-hyperlink-emails.png]]
-Budget & things to buy: 
-
-Yarn/String Materials: (Michaels) $20 
-
-Arduino Electronics: (Adafruit - Arduino Uno, 10 capacitive touch sensors, 10 LEDs, resistors, jumper wires, breadboards, USB cables, power supply, extension cables for distributed setup) $220 
-
-Wall Anchor Hardware: (screws, wall anchors, eye hooks - Home Depot) $50 
-
-Tabletop Display Stands: (3-5 acrylic easels) $20 
-
-Zine Printing: (16 pages, color, 50 copies) $140 
-
-Scenic Materials: 
-
-White canvas fabric 6-8 yards from Michaels ($40) 
-
-Mounting clips/grommets ($10)
-
-**Total Amount Requested**: $500
-§
