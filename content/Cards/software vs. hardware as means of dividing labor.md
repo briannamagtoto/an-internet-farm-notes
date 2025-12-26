@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Software vs. hardware as a means of dividing labor","created":"2025-12-24","modified":"2025-12-24T15:04:09.000-08:00","cssclasses":""}
+{"publish":true,"title":"Software vs. hardware as a means of dividing labor","created":"2025-12-24","modified":"2025-12-24T14:52:55.662-08:00","cssclasses":""}
 ---
 
 When planning (events, conferences, gatherings, your life) there are things that don't necessarily have a strict out
