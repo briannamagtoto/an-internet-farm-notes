@@ -120,14 +120,32 @@ button.desktop-explorer {
     padding: 0;
     overscroll-behavior: contain;
 
+    & li {
+      margin-bottom: 0;
+      border-bottom: 1px dotted var(--lightgray);
+    }
+
+    & li:last-child {
+      border-bottom: none;
+    }
+
     & li > a {
       color: var(--dark);
       opacity: 0.75;
       pointer-events: all;
+      display: block;
+      padding: 0.35rem 0.5rem;
+      line-height: 1.4;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
 
       &.active {
         opacity: 1;
         color: var(--tertiary);
+      }
+
+      &:hover {
+        opacity: 1;
       }
     }
   }
@@ -145,6 +163,7 @@ button.desktop-explorer {
   .folder-outer > ul {
     overflow: hidden;
     margin-left: 6px;
+    margin-top: 0.5rem;
     padding-left: 0.8rem;
     border-left: 1px solid var(--lightgray);
   }
