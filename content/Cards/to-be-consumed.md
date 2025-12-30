@@ -1,12 +1,11 @@
 ---
-{"publish":true,"title":"To be consumed","created":"2025-07-20","modified":"2025-11-27T10:49:13.357-08:00","cssclasses":""}
+{"publish":true,"title":"To be consumed","created":"2025-07-20","modified":"2025-12-29T22:03:10.114-08:00","cssclasses":""}
 ---
 
 A log of things that I want to consume. Please let me know your thoughts on any of the below... or if you want to co-read with me too / exchange thoughts! 
 
 Articles / Other
-- Here is my [curius], where I track what I read online
-- I also have a log of things I [want to read](https://www.are.na/brianna-magtoto/to-read-sort) and articles/things I want to [physically print out and read](https://www.are.na/brianna-magtoto/articles-to-print-f8m8eqzdxwu)
+- I have a log of things I [want to read](https://www.are.na/brianna-magtoto/to-read-sort) and articles/things I want to [physically print out and read](https://www.are.na/brianna-magtoto/articles-to-print-f8m8eqzdxwu)
 
 Books:
 check out my [Goodreads](https://www.goodreads.com/user/show/122818738-bea) for a more comprehensive and updated list 
