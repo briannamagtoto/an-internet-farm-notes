@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"projects","created":"2025-07-19","modified":"2025-12-29T23:28:20.102-08:00","tags":["home"],"cssclasses":""}
+{"publish":true,"title":"projects","created":"2025-07-19","modified":"2025-12-25T15:52:46.568-08:00","tags":["home"],"cssclasses":""}
 ---
 
 ongoing: 
@@ -22,7 +22,7 @@ ongoing:
 on pause: 
 - making a short film !?
 
-- [[Cards/hypertext exhibition]]
+- [[hyperlink/hypertext exhibition]]
 
 
 ideas: 
