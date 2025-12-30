@@ -17,16 +17,16 @@ interface Options {
 const defaultOptions: Options = {
   topics: [
     {
-      title: "art x tech",
-      slug: "MOCs/tech" as SimpleSlug,
-      description: "dreaming of a 🌫️ poetic web 🕸️",
-      emoji: "💭",
-    },
-    {
       title: "About",
       slug: "MOCs/brianna-magtoto-moc" as SimpleSlug,
       description: "personal notes & beliefs <3",
       emoji: "💌",
+    },
+    {
+      title: "art x tech",
+      slug: "MOCs/tech" as SimpleSlug,
+      description: "dreaming of a 🌫️ poetic web 🕸️",
+      emoji: "💭",
     },
     {
       title: "Projects",
@@ -61,7 +61,7 @@ export default ((userOpts?: Partial<Options>) => {
         const wikilinkRegex = /\[\[([^\]]+)\]\]/g
         let match
         while ((match = wikilinkRegex.exec(mocFile.text)) !== null) {
-          const linkTarget = match[1].split('|')[0].trim()
+          const linkTarget = match[1].split("|")[0].trim()
           linkedFiles.add(linkTarget)
         }
       }
@@ -72,18 +72,22 @@ export default ((userOpts?: Partial<Options>) => {
         const moc = file.frontmatter?.moc as string | undefined
         const tags = (file.frontmatter?.tags as string[]) || []
 
-        const isLinkedInMoc = file.slug && Array.from(linkedFiles).some(wikilink => {
-          const normalizedWikilink = wikilink.toLowerCase().replace(/\s+/g, '-')
-          const normalizedSlug = file.slug!.toLowerCase()
-          return normalizedSlug === normalizedWikilink ||
-                 normalizedSlug.endsWith('/' + normalizedWikilink) ||
-                 normalizedSlug.endsWith(normalizedWikilink)
-        })
+        const isLinkedInMoc =
+          file.slug &&
+          Array.from(linkedFiles).some((wikilink) => {
+            const normalizedWikilink = wikilink.toLowerCase().replace(/\s+/g, "-")
+            const normalizedSlug = file.slug!.toLowerCase()
+            return (
+              normalizedSlug === normalizedWikilink ||
+              normalizedSlug.endsWith("/" + normalizedWikilink) ||
+              normalizedSlug.endsWith(normalizedWikilink)
+            )
+          })
 
         return (
           moc?.toLowerCase() === topicName ||
           file.slug?.startsWith(topicSlug) ||
-          tags.some(tag => tag.toLowerCase().includes(topicName || "")) ||
+          tags.some((tag) => tag.toLowerCase().includes(topicName || "")) ||
           isLinkedInMoc
         )
       }).length
@@ -101,9 +105,7 @@ export default ((userOpts?: Partial<Options>) => {
                 {topic.emoji && <div class="topic-emoji">{topic.emoji}</div>}
                 <div class="topic-content">
                   <h3 class="topic-title">{topic.title.toLowerCase()}</h3>
-                  {topic.description && (
-                    <p class="topic-description">{topic.description}</p>
-                  )}
+                  {topic.description && <p class="topic-description">{topic.description}</p>}
                   {opts.showCounts && count !== null && (
                     <div class="topic-count">{count} notes</div>
                   )}

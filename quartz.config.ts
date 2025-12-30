@@ -29,10 +29,14 @@ const config: QuartzConfig = {
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
-      cdnCaching: true,
+      cdnCaching: false,
       typography: {
-        header: "Anonymous Pro",
-        body: "Anonymous Pro",
+        header: {
+          name: "Anonymous Pro",
+        },
+        body: {
+          name: "Anonymous Pro",
+        },
         code: "Anonymous Pro",
       },
       colors: {

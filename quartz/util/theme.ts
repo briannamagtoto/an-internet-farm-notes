@@ -67,7 +67,7 @@ function formatFontSpecification(
     features.push("ital")
   }
 
-  if (weights.length > 1) {
+  if (weights.length >= 1) {
     const weightSpec = italic
       ? weights
           .flatMap((w) => [`0,${w}`, `1,${w}`])
@@ -91,7 +91,7 @@ export function googleFontHref(theme: Theme) {
   const bodyFont = formatFontSpecification("body", body)
   const codeFont = formatFontSpecification("code", code)
 
-  return `https://fonts.googleapis.com/css2?family=${headerFont}&family=${bodyFont}&family=${codeFont}&display=swap`
+  return `https://fonts.googleapis.com/css2?family=${encodeURIComponent(headerFont)}&family=${encodeURIComponent(bodyFont)}&family=${encodeURIComponent(codeFont)}&display=swap`
 }
 
 export function googleFontSubsetHref(theme: Theme, text: string) {
