@@ -1,5 +1,10 @@
 ---
-{"publish":true,"title":"articles & mini essays","created":"2025-08-03","modified":"2025-09-27T19:10:14.298-07:00","tags":["home"],"cssclasses":""}
+publish: true
+title: articles & mini essays
+created: 2025-08-03
+modified: 2026-05-12T00:42:14.857-07:00
+tags:
+  - home
 ---
 
-[[Cards/On the emotional labor required to create]]
+[[on-the-emotional-labor-required-to-create]]
